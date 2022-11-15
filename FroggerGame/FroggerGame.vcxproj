@@ -138,6 +138,7 @@
     <ClInclude Include="SceneManager.h" />
     <ClInclude Include="TextRenderer.h" />
     <ClInclude Include="TimeManager.h" />
+    <ClInclude Include="Vector2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AnimatedImageRenderer.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="SceneManager.cpp" />
     <ClCompile Include="TextRenderer.cpp" />
     <ClCompile Include="TimeManager.cpp" />
+    <ClCompile Include="Vector2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
