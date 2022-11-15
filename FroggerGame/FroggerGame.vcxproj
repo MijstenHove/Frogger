@@ -131,11 +131,13 @@
     <ClInclude Include="AudioManager.h" />
     <ClInclude Include="ImageRenderer.h" />
     <ClInclude Include="InputManager.h" />
+    <ClInclude Include="LevelLoader.h" />
     <ClInclude Include="MainMenu.h" />
     <ClInclude Include="Renderer.h" />
     <ClInclude Include="RenderManager.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="SceneManager.h" />
+    <ClInclude Include="Spawner.h" />
     <ClInclude Include="TextRenderer.h" />
     <ClInclude Include="TimeManager.h" />
     <ClInclude Include="Vector2.h" />
@@ -145,11 +147,13 @@
     <ClCompile Include="AudioManager.cpp" />
     <ClCompile Include="ImageRenderer.cpp" />
     <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="LevelLoader.cpp" />
     <ClCompile Include="MainMenu.cpp" />
     <ClCompile Include="Renderer.cpp" />
     <ClCompile Include="RenderManager.cpp" />
     <ClCompile Include="Scene.cpp" />
     <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="Spawner.cpp" />
     <ClCompile Include="TextRenderer.cpp" />
     <ClCompile Include="TimeManager.cpp" />
     <ClCompile Include="Vector2.cpp" />

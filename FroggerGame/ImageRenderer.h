@@ -7,6 +7,6 @@ public:
 	ImageRenderer();
 	virtual void Load(std::string path) override;
 	virtual void Update() override;
-	virtual void Render();
+	virtual void Render() override;
 };
 

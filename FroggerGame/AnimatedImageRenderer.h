@@ -8,6 +8,8 @@ private:
 	int frameHeight;
 	int fps;
 	bool looping;
+	float frameTime;
+	float currentFrameTime;
 
 public:
 	AnimatedImageRenderer(int frameWidth, int frameHeight, int fps, bool looping);
